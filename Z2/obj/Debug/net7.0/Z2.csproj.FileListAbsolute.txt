@@ -1,0 +1,15 @@
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\bin\Debug\net7.0\Z2.exe
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\bin\Debug\net7.0\Z2.deps.json
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\bin\Debug\net7.0\Z2.runtimeconfig.json
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\bin\Debug\net7.0\Z2.dll
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\bin\Debug\net7.0\Z2.pdb
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.csproj.AssemblyReference.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.AssemblyInfoInputs.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.AssemblyInfo.cs
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.csproj.CoreCompileInputs.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.dll
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\refint\Z2.dll
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.pdb
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\Z2.genruntimeconfig.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z2\obj\Debug\net7.0\ref\Z2.dll

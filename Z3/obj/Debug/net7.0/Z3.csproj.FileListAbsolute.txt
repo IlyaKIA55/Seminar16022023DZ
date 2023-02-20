@@ -1,0 +1,15 @@
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.csproj.AssemblyReference.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.AssemblyInfoInputs.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.AssemblyInfo.cs
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.csproj.CoreCompileInputs.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\bin\Debug\net7.0\Z3.exe
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\bin\Debug\net7.0\Z3.deps.json
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\bin\Debug\net7.0\Z3.runtimeconfig.json
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\bin\Debug\net7.0\Z3.dll
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\bin\Debug\net7.0\Z3.pdb
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.dll
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\refint\Z3.dll
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.pdb
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\Z3.genruntimeconfig.cache
+C:\Users\kia77\OneDrive\Рабочий стол\Учеба\Seminar16022023DZ\Z3\obj\Debug\net7.0\ref\Z3.dll
